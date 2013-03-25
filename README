@@ -10,15 +10,15 @@ directory
 
 2.dep
 
-3.connect_serv 
+3.connsrv 
 
-4.ctrl_serv
+4.ctrlsrv
 
-5.db_serv
+5.dbsrv
 
-6.login_serv
+6.loginsrv
 
-7.world_serv
+7.worldsrv
 
 8.sql
 
