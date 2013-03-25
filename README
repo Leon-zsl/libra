@@ -7,31 +7,16 @@ directory
 ---------
 
 1.base
-
 2.dep
-
 3.connsrv 
-
 4.ctrlsrv
-
 5.dbsrv
-
 6.loginsrv
-
 7.worldsrv
-
 8.sql
-
 9.script
-
 10.proto
-
 11.conf
-
 12.robot
-
 13.tool
 
-14.doxygen
-
-15.doc
